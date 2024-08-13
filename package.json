@@ -1,0 +1,15 @@
+{
+  "name": "dev2",
+  "version": "1.0.0",
+  "description": "Web app",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Dev2"
+  },
+  "author": "Stefan",
+  "license": "ISC"
+}
